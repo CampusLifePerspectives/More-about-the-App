@@ -26,3 +26,5 @@ This function allows you to react to 20 random pictures that other users have ta
 <p align="center">
   <img src="images/Reaction Round 1.jpg" width="150"> <img src="images/Reaction Round 2.jpg" width="150"> 
 </p>
+
+## [Back to Main Page](https://campuslifeperspectives.github.io/)
