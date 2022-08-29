@@ -1,5 +1,5 @@
 # How does the app work?
-When you open one of the Photo Tasks, you have the three following options
+When you open one of the Photo Tasks, you have the three following options:
 - Take a Picture
 - Go for a Walk
 - Start a Reaction Round
